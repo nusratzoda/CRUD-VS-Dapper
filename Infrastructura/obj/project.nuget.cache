@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+F2JsP45G58izTR0B3MrTx2NKbYUsyQE/FCze/YSt00/V6NnIjVTBOZ1f3bhBRimPM0qlz49CnG43bdWwr3X/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Сухайб\\Desktop\\C#\\Home work in WebApi\\Infrastructura\\Infrastructura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Сухайб\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Сухайб\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\Сухайб\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
